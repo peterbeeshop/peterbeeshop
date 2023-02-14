@@ -25,14 +25,14 @@ I worked on a stock app that allows users to add a particular stock to their wat
 
 This is a clone of the official Hulu website. The data is powered to us by the tmdb.org api, which provides us with upto date movies. Tailwind css and tailwind JIT were used to style the app, and css grid to display the movies according to screen size. The app was made with Next js.
 
-[Link to repository](https://github.com/peterbeeshop/hulu-clone)
+[Link to repository](https://github.com/peterbeeshop/hulu-clone).
 [Link to website](https://petershuluclone.netlify.app)
 
 ### Project 3: Modern looking landing page
 
 A modern looking landing page from figma design to developement, using React js. The stack used is React js, tailwind css, React icons and Figma.
 
-[Link to repository](https://github.com/peterbeeshop/GPT-3-landing-page)
+[Link to repository](https://github.com/peterbeeshop/GPT-3-landing-page).
 [Link to website](https://modernlandingpage.netlify.app/)
 
 ## Achievements
