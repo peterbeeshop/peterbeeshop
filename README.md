@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi there! My name is Peter Muyambango, and I'm a full stack developer with over 2 years of experience. I'm passionate about building fast, responsive, and user-friendly web applications.
+Hi there! My name is Peter Muyambango, and I'm a full stack developer with 3+ years of experience. I'm passionate about building fast, responsive, and user-friendly web applications.
 
 ## Skills
 
