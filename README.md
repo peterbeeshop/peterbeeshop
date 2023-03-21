@@ -19,6 +19,7 @@ Hi there! My name is Peter Muyambango, and I'm a full stack developer with 3+ ye
 
 I worked on a stock app that allows users to add a particular stock to their watchlist or portfolio, so that they can track it's performance overtime and see what their returns would be. I was responsible for building the front-end using React and the back-end using Node.js and Express. I also integrated the website with a payment gateway and implemented user authentication and authorization using JSON Web Tokens.
 
+[Link to repository](https://github.com/peterbeeshop/react-stock-app) .
 [Link to website](https://wallstreetfinds.netlify.app)
 
 ### Project 2: Hulu 2.0
